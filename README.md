@@ -19,22 +19,22 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 ### Follow these steps to download your template and start the project:
 
-- [ ] Navigate here: [https://html5up.net/](https://html5up.net/)
-- [ ] You make pick any template you like.  Here are some good choices for a portfolio:
+- [ check ] Navigate here: [https://html5up.net/](https://html5up.net/)
+- [ check ] You make pick any template you like.  Here are some good choices for a portfolio:
 	- [https://html5up.net/story](https://html5up.net/story)
 	- [https://html5up.net/solid-state](https://html5up.net/solid-state)
 	- [https://html5up.net/miniport](https://html5up.net/miniport)
 	- [https://html5up.net/dimension](https://html5up.net/dimension)
 
-- [ ] Unzip the code and copy the site to your git repository that you just set up
+- [ check ] Unzip the code and copy the site to your git repository that you just set up
   * Note that we won't be utilizing the pre processed CSS structure, you can just ignore any folder with LESS or SASS (SCSS) in it.
-- [ ] Work on the MVP requirements listed below
+- [ check ] Work on the MVP requirements listed below
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
-- [ ] Add your Project Manager as a Reviewer on the Pull-request
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- [ check ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- [ check-ish ] Add your Project Manager as a Reviewer on the Pull-request
+- [ okay ] PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
