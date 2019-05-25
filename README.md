@@ -10,10 +10,10 @@ You have the ability to write HTML, CSS, and responsive media queries.  You also
 
 _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
-- [ ] Create a forked copy of this project.
-- [ ] Add PM as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
+- [ check ] Create a forked copy of this project.
+- [ check ] Add PM as collaborator on Github.
+- [ check ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ check ] Create a new branch on the clone: `git checkout -b <firstName-lastName>`.
 - [ ] Implement the project on the `<firstName-lastName>` branch, committing changes regularly.
 - [ ] Push commits: `git push origin <firstName-lastName>`.
 
