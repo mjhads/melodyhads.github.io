@@ -74,13 +74,22 @@ input, select, textarea {
 
 /* Row */
 
-	.row {
+	.row  {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
 		align-items: stretch;
+
+		justify-content: center;
 	}
 
+		/*YOUR CODE ADDED HERE*/
+		.row h3{
+			/* flex-direction: column; */
+			justify-content: flex-start;
+			flex-wrap: nowrap;
+		}
+		/*YOUR CODE ENDS HERE*/
 		.row > * {
 			box-sizing: border-box;
 		}
@@ -117,13 +126,13 @@ input, select, textarea {
 			order: -1;
 		}
 
-		.row > .col-1 {
+		/* .row > .col-1 {
 			width: 8.3333333333%;
 		}
 
 		.row > .off-1 {
 			margin-left: 8.3333333333%;
-		}
+		} */
 
 		.row > .col-2 {
 			width: 16.6666666667%;
@@ -133,13 +142,13 @@ input, select, textarea {
 			margin-left: 16.6666666667%;
 		}
 
-		.row > .col-3 {
+		/* .row > .col-3 {
 			width: 25%;
 		}
 
 		.row > .off-3 {
 			margin-left: 25%;
-		}
+		} */
 
 		.row > .col-4 {
 			width: 33.3333333333%;
@@ -149,13 +158,13 @@ input, select, textarea {
 			margin-left: 33.3333333333%;
 		}
 
-		.row > .col-5 {
+		/* .row > .col-5 {
 			width: 41.6666666667%;
-		}
+		} */
 
-		.row > .off-5 {
+		/* .row > .off-5 {
 			margin-left: 41.6666666667%;
-		}
+		} */
 
 		.row > .col-6 {
 			width: 50%;
@@ -165,45 +174,45 @@ input, select, textarea {
 			margin-left: 50%;
 		}
 
-		.row > .col-7 {
+		/* .row > .col-7 {
 			width: 58.3333333333%;
-		}
+		} */
 
-		.row > .off-7 {
+		/* .row > .off-7 {
 			margin-left: 58.3333333333%;
-		}
+		} */
 
-		.row > .col-8 {
+		/* .row > .col-8 {
 			width: 66.6666666667%;
-		}
+		} */
 
-		.row > .off-8 {
+		/* .row > .off-8 {
 			margin-left: 66.6666666667%;
-		}
+		} */
 
-		.row > .col-9 {
+		/* .row > .col-9 {
 			width: 75%;
-		}
+		} */
 
-		.row > .off-9 {
+		/* .row > .off-9 {
 			margin-left: 75%;
-		}
+		} */
 
-		.row > .col-10 {
+		/* .row > .col-10 {
 			width: 83.3333333333%;
-		}
+		} */
 
-		.row > .off-10 {
+		/* .row > .off-10 {
 			margin-left: 83.3333333333%;
-		}
+		} */
 
-		.row > .col-11 {
+		/* .row > .col-11 {
 			width: 91.6666666667%;
-		}
+		} */
 
-		.row > .off-11 {
+		/* .row > .off-11 {
 			margin-left: 91.6666666667%;
-		}
+		} */
 
 		.row > .col-12 {
 			width: 100%;
